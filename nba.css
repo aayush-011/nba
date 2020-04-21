@@ -1,0 +1,33 @@
+h1{
+	color: #ac011e;
+	font-family: arial;
+	font-style: italic;
+	font-size: 200%;
+	text-align: center;
+}
+div{
+	display: inline-block;
+}
+img{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+
+}
+h2{
+	text-align: left;
+	font-size: 150%;
+	font-family: cursive;
+	color: #12aa21;
+}
+h3{
+	text-align: center;
+	font-size: 120%;
+	font-family: cursive;
+	color: #412aaa;
+}
+ol{
+	font-family: cursive;
+	color: #cad012
+	font-size:150%;
+}
